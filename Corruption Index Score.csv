@@ -1,0 +1,177 @@
+CPI Rank,Country,Country Code,Corruption Perceptions Index (CPI)
+1,New Zealand,NZL,90
+1,Denmark,DNK,90
+3,Finland,FIN,89
+4,Sweden,SWE,88
+5,Switzerland,CHE,86
+6,Norway,NOR,85
+7,Singapore,SGP,84
+8,Netherlands,NLD,83
+9,Canada,CAN,82
+10,Germany,DEU,81
+10,Luxembourg,LUX,81
+10,United Kingdom,GBR,81
+13,Australia,AUS,79
+14,Iceland,ISL,78
+15,Hong Kong,HKG,77
+15,Belgium,BEL,77
+17,Austria,AUT,75
+18,The United States of America,USA,74
+19,Ireland,IRL,73
+20,Japan,JPN,72
+21,Uruguay,URY,71
+22,Estonia,EST,70
+23,France,FRA,69
+24,Bahamas,BHS,66
+24,Chile,CHL,66
+24,United Arab Emirates,ARE,66
+27,Bhutan,BTN,65
+28,Israel,ISR,64
+29,Poland,POL,62
+29,Portugal,PRT,62
+31,Barbados,BRB,61
+31,Taiwan,TWN,61
+31,Qatar,QAT,61
+31,Slovenia,SVN,61
+35,Saint Lucia,LCA,60
+35,Saint Vincent and The Grenadines,VCT,60
+35,Botswana,BWA,60
+38,Dominica,DMA,59
+38,Cape Verde,CPV,59
+38,Lithuania,LTU,59
+41,Costa Rica,CRI,58
+41,Brunei,BRN,58
+41,Spain,ESP,58
+44,Georgia,GEO,57
+44,Latvia,LVA,57
+46,Grenada,GRD,56
+47,Cyprus,CYP,55
+47,Czech Republic,CZE,55
+47,Malta,MLT,55
+50,Mauritius,MUS,54
+50,Rwanda,RWA,54
+52,Korea (South),KOR,53
+53,Namibia,NAM,52
+54,Slovakia,SVK,51
+55,Malaysia,MYS,49
+55,Croatia,HRV,49
+57,Jordan,JOR,48
+57,Hungary,HUN,48
+57,Romania,ROM,48
+60,Cuba,CUB,47
+60,Italy,ITA,47
+62,Saudi Arabia,SAU,46
+62,Sao Tome and Principe,STP,46
+64,Suriname,SUR,45
+64,Montenegro,MON,45
+64,Oman,OMN,45
+64,Senegal,SEN,45
+64,South Africa,ZAF,45
+69,Greece,GRC,44
+70,Bahrain,BHR,43
+70,Ghana,GHA,43
+72,Solomon Islands,SLB,42
+72,Serbia,SCG,42
+72,Burkina Faso,BFA,42
+75,Turkey,TUR,41
+75,Kuwait,KWT,41
+75,Tunisia,TUN,41
+75,Bulgaria,BGR,41
+79,Brazil,BRA,40
+79,China,CHN,40
+79,India,IND,40
+79,Belarus,BLR,40
+83,Jamaica,JAM,39
+83,Albania,ALB,39
+83,Bosnia and Herzegovina,BIH,39
+83,Lesotho,LSO,39
+87,Panama,PAN,38
+87,Mongolia,MNG,38
+87,Zambia,ZMB,38
+90,Colombia,COL,37
+90,Indonesia,IDN,37
+90,The FYR of Macedonia,MKD,37
+90,Morocco,MAR,37
+90,Liberia,LBR,37
+95,Argentina,ARG,36
+95,El Salvador,SLV,36
+95,Maldives,MDV,36
+95,Sri Lanka,LKA,36
+95,Kosovo,LWI,36
+95,Benin,BEN,36
+101,Peru,PER,35
+101,Trinidad and Tobago,TTO,35
+101,Philippines,PHL,35
+101,Thailand,THA,35
+101,Timor-Leste,TLS,35
+101,Gabon,GAB,35
+101,Niger,NER,35
+108,Guyana,GUY,34
+108,Algeria,DZA,34
+108,Egypt,EGY,34
+108,C√¥te d‚ÄôIvoire,CIV,34
+108,Ethiopia,ETH,34
+113,Bolivia,BOL,33
+113,Vietnam,VNM,33
+113,Armenia,ARM,33
+116,Pakistan,PAK,32
+116,Mali,MLI,32
+116,Tanzania,TZA,32
+116,Togo,TGO,32
+120,Dominican Republic,DOM,31
+120,Ecuador,ECU,31
+120,Malawi,MWI,31
+123,Honduras,HND,30
+123,Mexico,MEX,30
+123,Paraguay,PRY,30
+123,Laos,LAO,30
+123,Azerbaijan,AZE,30
+123,Moldova,MDA,30
+123,Djibouti,DJI,30
+123,Sierra Leone,SLE,30
+131,Nepal,NPL,29
+131,Kazakhstan,KAZ,29
+131,Russia,RUS,29
+131,Ukraine,UKR,29
+131,Iran,IRN,29
+136,Guatemala,GTM,28
+136,Myanmar,MMR,28
+136,Papua New Guinea,PNG,28
+136,Kyrgyzstan,KGZ,28
+136,Lebanon,LBN,28
+136,Nigeria,NGA,28
+142,Guinea,GIN,27
+142,Mauritania,MRT,27
+142,Mozambique,MOZ,27
+145,Nicaragua,NIC,26
+145,Bangladesh,BGD,26
+145,Cameroon,CMR,26
+145,Gambia,GMB,26
+145,Kenya,KEN,26
+145,Madagascar,MDG,26
+151,Tajikistan,TJK,25
+151,Uganda,UGA,25
+153,Comoros,COM,24
+154,Turkmenistan,TKM,22
+154,Zimbabwe,ZWE,22
+156,Cambodia,KHM,21
+156,Uzbekistan,UZB,21
+156,The Democratic Republic of Congo,COD,21
+159,Haiti,HTI,20
+159,Burundi,BDI,20
+159,Central African Republic,CAF,20
+159,Chad,TCD,20
+159,Republic of Congo,COG,20
+164,Angola,AGO,18
+164,Eritrea,ERI,18
+166,Venezuela,VEN,17
+166,Iraq,IRQ,17
+168,Guinea-Bissau,GNB,16
+169,Afghanistan,AFG,15
+170,Libya,LBY,14
+170,Yemen,YEM,14
+170,Sudan,SDN,14
+173,Syria,SYR,13
+174,Korea (North),PRK,12
+175,South Sudan,SSD,11
+176,Somalia,SOM,10
